@@ -1,8 +1,3 @@
-# 20CE132
-# Nisarg Shah
-# Repository Link :: https://github.com/Nisarg01-01/Python_Practicals.git
-# visit Lapindorme.py 
-
 n=int(input())
 # taking input from user
 for i in range(n):

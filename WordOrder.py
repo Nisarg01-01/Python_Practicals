@@ -1,8 +1,3 @@
-# 20CE132
-# Nisarg Shah
-# Repository Link :: https://github.com/Nisarg01-01/Python_Practicals.git
-# visit Practical6.py 
-
 # Taking input from user
 n=int(input())
 
